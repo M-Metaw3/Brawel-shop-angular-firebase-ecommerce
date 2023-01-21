@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkAngular_Final_Project=self.webpackChunkAngular_Final_Project||[]).push([[856],{1856:(P,n,o)=>{o.r(n),o.d(n,{ShopCartPageModule:()=>e});var u=o(6895),l=o(4650);let e=(()=>{class a{}return a.\u0275fac=function(t){return new(t||a)},a.\u0275mod=l.oAB({type:a}),a.\u0275inj=l.cJS({imports:[u.ez]}),a})()}}]);

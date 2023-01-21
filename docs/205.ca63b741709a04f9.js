@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkAngular_Final_Project=self.webpackChunkAngular_Final_Project||[]).push([[205],{205:(e,o,a)=>{a.r(o),a.d(o,{ProductDetailsModule:()=>r});var t=a(6895),n=a(4466),u=a(4650);let r=(()=>{class l{}return l.\u0275fac=function(s){return new(s||l)},l.\u0275mod=u.oAB({type:l}),l.\u0275inj=u.cJS({imports:[t.ez,n.m]}),l})()}}]);

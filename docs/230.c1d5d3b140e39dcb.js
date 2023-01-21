@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkAngular_Final_Project=self.webpackChunkAngular_Final_Project||[]).push([[230],{7230:(d,n,l)=>{l.r(n),l.d(n,{WishListModule:()=>t});var o=l(6895),u=l(4466),a=l(4650);let t=(()=>{class s{}return s.\u0275fac=function(r){return new(r||s)},s.\u0275mod=a.oAB({type:s}),s.\u0275inj=a.cJS({imports:[o.ez,u.m]}),s})()}}]);

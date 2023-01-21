@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkAngular_Final_Project=self.webpackChunkAngular_Final_Project||[]).push([[20],{20:(_,l,n)=>{n.r(l),n.d(l,{PaymentPageModule:()=>u});var e=n(6895),o=n(4006),P=n(4650);let u=(()=>{class a{}return a.\u0275fac=function(r){return new(r||a)},a.\u0275mod=P.oAB({type:a}),a.\u0275inj=P.cJS({imports:[e.ez,o.UX]}),a})()}}]);
